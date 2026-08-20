@@ -7,7 +7,7 @@ Hey there! Glad I caught your interest.😊 My name is Gifty, a full-stack devel
 
 When I am not coding, I actively give back as a global volunteer with the United Nations and CALEC.
 
-<img width="4000" height="4000" alt="image" src="https://github.com/user-attachments/assets/7d89922e-fea5-499d-a002-145bfdec7ebd" loading="lazy" />
+<!-- <img width="4000" height="4000" alt="image" src="https://github.com/user-attachments/assets/7d89922e-fea5-499d-a002-145bfdec7ebd" loading="lazy" /> -->
 
 [Call me](https://calendly.com/egbonyigiftvicky), I'm available right now.
 

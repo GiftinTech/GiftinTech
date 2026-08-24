@@ -422,11 +422,10 @@ You can find my writings and interactive code demos across these platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              30 mins               ████████████████░░░░░░░░░   63.59 %
-Bash             7 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
-Blade Template   5 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Markdown         3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Other            0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Bash             7 mins                ████████████░░░░░░░░░░░░░   48.58 %
+Markdown         3 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
+PHP              3 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
+Blade Template   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->

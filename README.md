@@ -422,11 +422,11 @@ You can find my writings and interactive code demos across these platforms:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         3 hrs 21 mins         ██████████████████▒░░░░░░   72.73 %
-Bash         31 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-TypeScript   25 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-Python       14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-YAML         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+JSON         2 hrs 49 mins         ███████████▒░░░░░░░░░░░░░   44.72 %
+TypeScript   1 hr 37 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
+Bash         1 hr 17 mins          █████░░░░░░░░░░░░░░░░░░░░   20.56 %
+Python       18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Other        10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
